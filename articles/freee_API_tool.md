@@ -3,7 +3,7 @@ title: "freeeアプリストアに個人で申請するまで、結局いくら�
 emoji: "🧾"
 type: "tech"
 topics: ["freee", "api", "個人開発", "python", "flask"]
-published: false
+published: true
 ---
 
 freee APIを使った督促ツールを作り、freeeアプリストアへの公開申請まで漕ぎ着けました。
