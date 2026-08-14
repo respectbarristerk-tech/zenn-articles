@@ -3,7 +3,7 @@ title: "freee APIで401が出続ける。原因は /api/1/companies の先頭を
 emoji: "🔁"
 type: "tech"
 topics: ["freee", "api", "oauth", "個人開発", "python"]
-published: false
+published: true
 ---
 
 freee APIを使った督促ツールを作り、アプリストアの審査に出しています。
